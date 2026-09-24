@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chantelle 👋
 
 <!--
-**chantellejoseph/chantellejoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+MSc in Cancer Genomics and Data Science, building practical bioinformatics
+skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## What I'm working on
+- 🔬 Bulk RNA-seq differential expression analysis in breast cancer (R, DESeq2)
+
+## Skills & tools
+R · Bioconductor · DESeq2 · PCA · Pathway enrichment & GSEA · Git/GitHub
+
+## Get in touch
+[LinkedIn](https://www.linkedin.com/in/chantelle-joseph-b83555203)
 -->
