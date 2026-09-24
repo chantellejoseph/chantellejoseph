@@ -1,7 +1,5 @@
 # Hi, I'm Chantelle 👋
 
-<!--
-
 MSc in Cancer Genomics and Data Science, building practical bioinformatics
 skills through hands-on projects.
 
@@ -13,4 +11,4 @@ R · Bioconductor · DESeq2 · PCA · Pathway enrichment & GSEA · Git/GitHub
 
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/chantelle-joseph-b83555203)
--->
+
